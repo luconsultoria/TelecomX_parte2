@@ -154,11 +154,17 @@ Jupyter / Google Colab (ambiente de execução)
 📁 Organização do Projeto
 
 ├── README.md
+
 ├── TelecomX_Dados_Tratados.csv
+
 ├── churn_analysis.ipynb
+
 └── outputs/
+
     ├── correlation_heatmap.png
+    
     ├── churn_distribution.png
+    
     └── model_reports.txt
 
 📌 Considerações Finais
